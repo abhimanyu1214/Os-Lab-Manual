@@ -1,0 +1,11 @@
+echo "# Os-Lab-Manual" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/abhimanyu1214/Os-Lab-Manual.git
+git push -u origin master
+
+
+
+
+Link are:-https://webstor.srmist.edu.in/web_assets/srm_mainsite/files/2017/cse-lab-manual-os.pdf
